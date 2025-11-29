@@ -14,5 +14,7 @@ Servicio de almacenamiento en la nube que permite guardar, sincronizar y compart
  5. ✌️**Angular:**
 Framework creado por Google para desarrollar aplicaciones de una sola página (SPA) con TypeScript. Ofrece herramientas integradas para manejo de rutas, formularios y servicios, facilitando la creación de interfaces dinámicas y modulares.
 
+6. **IAM (Identity and Access Management)** La gestión de identidades y accesos (IAM) es un conjunto de políticas y tecnologías que permiten garantizar que las personas y sistemas adecuados tengan el acceso correcto a recursos en el momento adecuado.
+
 
 
