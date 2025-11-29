@@ -19,7 +19,7 @@ Framework creado por Google para desarrollar aplicaciones de una sola página (S
 La gestión de identidades y accesos (IAM) es un conjunto de políticas y tecnologías que permiten garantizar que las personas y sistemas adecuados tengan el acceso correcto a recursos en el momento adecuado.
 
 7. 🎶 **TESTER**
-es un profesional encargado de evaluar la calidad del software antes de su lanzamiento, asegurando que funcione correctamente, cumpla con los requisitos y esté libre de errores
+Es un profesional encargado de evaluar la calidad del software antes de su lanzamiento, asegurando que funcione correctamente, cumpla con los requisitos y esté libre de errores
 
 
 
