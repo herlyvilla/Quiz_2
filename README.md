@@ -6,3 +6,6 @@ Son ventanas emergentes que se pueden utilizar para mostrar información a los u
 
 2. ☺️ **Código de barras**
 Patrón de líneas o cuadros que almacena información sobre un producto para que pueda ser interpretada por un dispositivo electrónico, representando datos mediante números y letras.
+3. 💕**Google Drive:**
+Servicio de almacenamiento en la nube que permite guardar, sincronizar y compartir archivos digitales desde cualquier dispositivo con acceso a internet.
+
