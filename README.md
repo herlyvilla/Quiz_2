@@ -11,5 +11,8 @@ Proceso de recopilación y evaluación de las necesidades del usuario para defin
 
 4. 💕 **Google Drive:**
 Servicio de almacenamiento en la nube que permite guardar, sincronizar y compartir archivos digitales desde cualquier dispositivo con acceso a internet.
+ 5. ✌️**Angular:**
+Framework creado por Google para desarrollar aplicaciones de una sola página (SPA) con TypeScript. Ofrece herramientas integradas para manejo de rutas, formularios y servicios, facilitando la creación de interfaces dinámicas y modulares.
+
 
 
