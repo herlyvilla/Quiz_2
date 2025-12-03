@@ -13,14 +13,15 @@ Proceso de recopilación y evaluación de las necesidades del usuario para defin
 Servicio de almacenamiento en la nube que permite guardar, sincronizar y compartir archivos digitales desde cualquier dispositivo con acceso a internet.
 
 5. ✌️**Angular:**
-Framework creado por Google para desarrollar aplicaciones de una sola página (SPA) con TypeScript. Ofrece herramientas integradas para manejo de rutas, formularios y servicios, facilitando la creación de interfaces dinámicas y modulares.
+Framework creado por Google para desarrollar aplicaciones de una sola página (SPA) con TypeScript. Ofrece herramientas integradas para manejo de rutas, formularios y servicios, facilitando la creación de interfaces dinámicas y modulares
 
 6. 🙃 **IAM (Identity and Access Management)**
 La gestión de identidades y accesos (IAM) es un conjunto de políticas y tecnologías que permiten garantizar que las personas y sistemas adecuados tengan el acceso correcto a recursos en el momento adecuado.
 
 7. 🎶 **TESTER**
-Es un profesional encargado de evaluar la calidad del software antes de su lanzamiento, asegurando que funcione correctamente, cumpla con los requisitos y esté libre de errores
+Es un profesional encargado de evaluar la calidad del software antes de su lanzamiento, asegurando que funcione correctamente, cumpla con los requisitos y esté libre de errores.
 
-
+8. 🤕 **Spear Phishing**
+Spear Phishing es un tipo de ataque de ingeniería social altamente dirigido y personalizado, donde el atacante intenta obtener información confidencial de un individuo u organización específicos diferencia del phishing masivo, estos mensajes suelen estar muy elaborados, mencionando detalles del trabajo o la vida de la víctima para generar confianza y urgencia. Es muy efectivo para infiltrarse en redes corporativas con credenciales válidas.
 
 
