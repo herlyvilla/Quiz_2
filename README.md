@@ -6,7 +6,7 @@ Son ventanas emergentes que se pueden utilizar para mostrar información a los u
 2. ☺️ **Código de barras**
 Patrón de líneas o cuadros que almacena información sobre un producto para que pueda ser interpretada por un dispositivo electrónico, representando datos mediante números y letras.
 
-3. 🔴⚪🦁 **Análisis de Requisitos**
+3. 🔴⚪🦁 **Análisis de Requisitos:**
 Proceso de recopilación y evaluación de las necesidades del usuario para definir las características del software.
 
 4. 💕 **Google Drive:**
